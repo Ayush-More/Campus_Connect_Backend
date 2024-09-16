@@ -1,0 +1,153 @@
+[
+    {
+        "name": "Machine Learning for Beginners",
+        "slug": "machine-learning-for-beginners",
+        "Link": "https://example.com/books/ml-beginners",
+        "type": "ML",
+        "rating": 3.8,
+        "discription": "A beginner-friendly introduction to machine learning concepts.",
+        "Writer": "Alice Smith",
+        "pages": 240
+    },
+    {
+        "name": "Data Science Essentials",
+        "slug": "data-science-essentials",
+        "Link": "https://example.com/books/data-science",
+        "type": "Data_Science",
+        "rating": 4.5,
+        "discription": "An in-depth guide to essential data science techniques.",
+        "Writer": "Bob Johnson",
+        "pages": 320
+    },
+    {
+        "name": "Deep Learning Fundamentals",
+        "slug": "deep-learning-fundamentals",
+        "Link": "https://example.com/books/deep-learning",
+        "type": "AI",
+        "rating": 4.2,
+        "discription": "Exploring the basics of deep learning and neural networks.",
+        "Writer": "Elena Brown",
+        "pages": 280
+    },
+    {
+        "name": "Advanced Machine Learning",
+        "slug": "advanced-machine-learning",
+        "Link": "https://example.com/books/advanced-ml",
+        "type": "ML",
+        "rating": 4.7,
+        "discription": "A comprehensive guide for advanced machine learning practitioners.",
+        "Writer": "David Johnson",
+        "pages": 400
+    },
+    {
+        "name": "Python for Data Science",
+        "slug": "python-for-data-science",
+        "Link": "https://example.com/books/python-ds",
+        "type": "Data_Science",
+        "rating": 4.0,
+        "discription": "Mastering Python for data analysis and visualization.",
+        "Writer": "Grace White",
+        "pages": 300
+    },
+    {
+        "name": "Introduction to Artificial Intelligence",
+        "slug": "introduction-to-ai",
+        "Link": "https://example.com/books/intro-to-ai",
+        "type": "AI",
+        "rating": 3.9,
+        "discription": "A beginner's guide to the world of artificial intelligence.",
+        "Writer": "Michael Lee",
+        "pages": 260
+    },
+    {
+        "name": "Practical Data Analysis",
+        "slug": "practical-data-analysis",
+        "Link": "https://example.com/books/practical-data-analysis",
+        "type": "Data_Science",
+        "rating": 4.1,
+        "discription": "Hands-on techniques for real-world data analysis.",
+        "Writer": "Sophia Smith",
+        "pages": 350
+    },
+    {
+        "name": "Reinforcement Learning",
+        "slug": "reinforcement-learning",
+        "Link": "https://example.com/books/reinforcement-learning",
+        "type": "AI",
+        "rating": 4.4,
+        "discription": "Exploring the principles of reinforcement learning.",
+        "Writer": "Chris Johnson",
+        "pages": 280
+    },
+    {
+        "name": "Statistics for Data Science",
+        "slug": "statistics-for-data-science",
+        "Link": "https://example.com/books/statistics-for-ds",
+        "type": "Data_Science",
+        "rating": 4.3,
+        "discription": "A comprehensive overview of statistics for data scientists.",
+        "Writer": "Emma Davis",
+        "pages": 320
+    },
+    {
+        "name": "Natural Language Processing",
+        "slug": "natural-language-processing",
+        "Link": "https://example.com/books/nlp",
+        "type": "AI",
+        "rating": 4.6,
+        "discription": "An in-depth guide to natural language processing techniques.",
+        "Writer": "Daniel Brown",
+        "pages": 380
+    },
+    {
+        "name": "Hands-On Machine Learning",
+        "slug": "hands-on-machine-learning",
+        "Link": "https://example.com/books/hands-on-ml",
+        "type": "ML",
+        "rating": 4.8,
+        "discription": "Practical exercises and projects for machine learning enthusiasts.",
+        "Writer": "Olivia Johnson",
+        "pages": 420
+    },
+    {
+        "name": "Data Visualization with Python",
+        "slug": "data-visualization-with-python",
+        "Link": "https://example.com/books/data-visualization",
+        "type": "Data_Science",
+        "rating": 4.0,
+        "discription": "Creating compelling data visualizations using Python.",
+        "Writer": "William White",
+        "pages": 290
+    },
+    {
+        "name": "Computer Vision Basics",
+        "slug": "computer-vision-basics",
+        "Link": "https://example.com/books/computer-vision",
+        "type": "AI",
+        "rating": 4.2,
+        "discription": "Fundamentals of computer vision for AI applications.",
+        "Writer": "Sophie Davis",
+        "pages": 320
+    },
+    {
+        "name": "Machine Learning Algorithms",
+        "slug": "machine-learning-algorithms",
+        "Link": "https://example.com/books/ml-algorithms",
+        "type": "ML",
+        "rating": 4.5,
+        "discription": "A detailed exploration of various machine learning algorithms.",
+        "Writer": "Alex Johnson",
+        "pages": 380
+    },
+    {
+        "name": "Data Wrangling and Preprocessing",
+        "slug": "data-wrangling-preprocessing",
+        "Link": "https://example.com/books/data-wrangling",
+        "type": "Data_Science",
+        "rating": 4.1,
+        "discription": "Techniques for cleaning and preparing data for analysis.",
+        "Writer": "Isabella Smith",
+        "pages": 280
+    }
+  
+]

@@ -1,2 +1,2 @@
-# Campus_Connect_Backend
-aOur website serves as a comprehensive platform catering to three types of users: administrators, mentors, and regular users. Its primary features include a mentorship platform, enabling users to connect with seniors for valuable guidance and advice. 
+# Campus-Connect
+ aOur website serves as a comprehensive platform catering to three types of users: administrators, mentors, and regular users. Its primary features include a mentorship platform, enabling users to connect with seniors for valuable guidance and advice. Additionally, users can access a vast library of PDF resources covering various subjects, as well as contribute their own PDFs. The platform also offers a calendar function, allowing users to manage their schedules and stay informed about college events and academic calendars. Lastly, users benefit from career roadmaps across different fields, aiding in their professional development.
